@@ -2,8 +2,8 @@
 any three task from the below project
 ## Five Task
 - [TO-DO-LIST](#to-do-list)
-- [Usage](#usage)
-- [Projects](#projects)
-- [Contributing](#contributing)
-- [License](#license)
+- [CALCULATOR](#usage)
+- [PASSWORD CALCULATOR](#projects)
+- [ROCK-PAPER-SCISSOR GAME](#contributing)
+- [LicenseCONTACT BOOK](#license)
 
