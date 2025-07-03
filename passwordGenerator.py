@@ -1,17 +1,20 @@
 import string
 import random
 
+# creating a function which has password generator function
+# 1 taking no. of character in password
+# generate a password from random 
+
 def generate_password(length):
-    # Define characters to choose from
     characters = string.ascii_letters + string.digits + string.punctuation
-    # Randomly choose 'length' characters
+
     password = ''.join(random.choice(characters) for _ in range(length))
     return password
 
 def main():
     print("Welcome to the Password Generator!")
     try:
-        length = int(input("Enter the desired password length: "))
+        length = int(input("Enter the Number of characters you wish to generate: "))
         if length < 4:
             print("Password length should be at least 4 characters.")
             return
