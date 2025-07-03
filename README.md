@@ -58,4 +58,4 @@ This project aims to create a password generator application using Python, allow
 ## Three Task
 - [CALCULATOR](https://github.com/devKOff/CodSoft/blob/master/calculator.py)
 - [PASSWORD GENERATOR](https://github.com/devKOff/CodSoft/blob/master/passwordGenerator.py)
-- [ROCK-PAPER-SCISSOR GAME](#contributing)
+- [ROCK-PAPER-SCISSOR GAME](https://github.com/devKOff/CodSoft/blob/master/R-P-S_Game.py)
