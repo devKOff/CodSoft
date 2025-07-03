@@ -3,7 +3,7 @@ import random
 
 # creating a function which has password generator function
 # 1 taking no. of character in password
-# generate a password from random 
+# generate a password from random
 
 def generate_password(length):
     characters = string.ascii_letters + string.digits + string.punctuation
