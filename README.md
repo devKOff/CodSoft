@@ -1,9 +1,6 @@
 # Cod Soft Projects
-any three task from the below project
-## Five Task
-- [TO-DO-LIST](#to-do-list)
+## cod soft has provided five task , from which we have to choose any 3 code and compleate it.
+## Three Task
 - [CALCULATOR](https://github.com/devKOff/CodSoft/blob/master/calculator.py)
 - [PASSWORD GENERATOR](#projects)
 - [ROCK-PAPER-SCISSOR GAME](#contributing)
-- [LicenseCONTACT BOOK](#license)
-
